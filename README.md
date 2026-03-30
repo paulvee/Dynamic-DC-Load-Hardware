@@ -25,7 +25,8 @@ The Specifications:
 - Weight: approx. 1110 grams
 
 The firmware for the Dynamic Load and the Batt Tester App are located in 
-another repo located here: https://github.com/paulvee/Dynamic-DC-Load
+another repo located here:
+https://github.com/paulvee/Dynamic-DC-Load
 
 For details, visit my Blog : https://www.paulvdiyblogs.net/2024/09/building-diy-dynamic-dc-load.html
 It gives you access to all information pertinent to the design and building of the Dynamic Load.
